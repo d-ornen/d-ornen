@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d-ornen
 - 👀 I’m interested in virus analysis, pentesting, reverse engineering
-- 🌱 I’m currently learning python, frida, other reverse engineering tools
+- 🌱 I’m currently learning python, frida, and some other reverse engineering tools
 - 💞️ I’m looking to collaborate on frida scripts development
 - 📫 How to reach me gitgoodjust4lulz@yahoo.com
